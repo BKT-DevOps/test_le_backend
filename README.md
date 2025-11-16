@@ -10,7 +10,7 @@
 </div>
 
 ---
-
+   
 <details open>
 <summary><strong>🇹🇷 Türkçe</strong></summary>
 
